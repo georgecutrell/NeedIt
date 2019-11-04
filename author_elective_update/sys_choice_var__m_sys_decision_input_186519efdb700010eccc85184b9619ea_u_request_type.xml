@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_request_type" table="var__m_sys_decision_input_186519efdb700010eccc85184b9619ea" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_186519efdb700010eccc85184b9619ea</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-04 21:01:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1636d523dbb00010eccc85184b9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-04 21:01:08</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_186519efdb700010eccc85184b9619ea</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-04 21:01:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12461923dbb00010eccc85184b96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-04 21:01:27</sys_updated_on>
+            <value>hr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_186519efdb700010eccc85184b9619ea</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-04 21:00:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23165523dbb00010eccc85184b9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-04 21:00:57</sys_updated_on>
+            <value>legal</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_request_type</element>
+            <name>var__m_sys_decision_input_186519efdb700010eccc85184b9619ea</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-04 21:00:57</sys_created_on>
+            <sys_id>e93699efdb700010eccc85184b9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_request_type</sys_name>
+            <sys_package display_value="NeedIt" source="x_415482_needit">8e82525ddb600010eccc85184b9619e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">8e82525ddb600010eccc85184b9619e8</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_186519efdb700010eccc85184b9619ea_u_request_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-04 21:00:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
